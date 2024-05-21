@@ -1,0 +1,70 @@
+Authentication Module:
+
+Login Page
+Sign-Up Page
+Forgot Password Page
+Home Module:
+
+Featured Products Carousel
+New Arrivals Section
+Special Deals Section
+Quick Links to other Modules (Gloves, Jackets, Apparel, Surgical Instruments)
+Product Categories Modules:
+
+Gloves Page
+List of Gloves
+Filter and Sorting Options
+Product Details Page
+Jackets Page
+List of Jackets
+Filter and Sorting Options
+Product Details Page
+Apparel Page
+List of Apparel
+Filter and Sorting Options
+Product Details Page
+Surgical Instruments Page
+List of Surgical Instruments
+Filter and Sorting Options
+Product Details Page
+Cart Module:
+
+View Cart
+Add/Remove Items
+Adjust Quantity
+Proceed to Checkout
+Checkout Module:
+
+Shipping Information
+Payment Options
+Order Summary
+Place Order Button
+Order History Module:
+
+List of Previous Orders
+Order Details Page
+Profile Module:
+
+User Profile Information
+Order History
+Settings (if applicable)
+Search Module:
+
+Search Bar
+Search Results Page
+Notification Module:
+
+Push Notifications for Order Updates, Promotions, etc.
+About Us Module:
+
+Information about your business
+Mission, Vision, and Values
+Contact Us Module:
+
+Contact Information
+Inquiry Form
+Settings Module:
+
+Language Preferences
+Notification Preferences
+Theme Preferences

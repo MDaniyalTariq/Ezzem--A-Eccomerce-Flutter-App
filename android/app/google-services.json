@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "84715631652",
+    "project_id": "ezzem-a21ea",
+    "storage_bucket": "ezzem-a21ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84715631652:android:ab43afb40d61669ddb94b1",
+        "android_client_info": {
+          "package_name": "com.example.ezzem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84715631652-iv0r9tskh097ig2elei85chicntb737g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmt8VU2rBGHYS8YUaOZzNXU4F0lEaIbkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84715631652-iv0r9tskh097ig2elei85chicntb737g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84715631652-chp06tfskbd0669jnsam0t081og3lnr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ezzem.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
