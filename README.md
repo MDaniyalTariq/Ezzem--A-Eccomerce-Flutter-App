@@ -18,5 +18,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/ezzem.git
+   git clone https://github.com/MDaniyalTariq/ezzem.git
    cd ezzem
