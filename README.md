@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/MDaniyalTariq/ezzem.git
+   git clone https://github.com/MDaniyalTariq/Ezzem--A-Eccomerce-Flutter-App.git
    cd ezzem
 2. **Install Dependencies:**
 Ensure you have Flutter installed. Then run:
